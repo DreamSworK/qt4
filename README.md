@@ -9,3 +9,5 @@ Yes, it is *a little bit bugged*, because **Doxygen** is not fully supported the
 However, it could be useful if you want to see inside the **Qt 4.8.6** sources.
 
 Just use https://dreamswork.github.io/qt4/ for accessing the documentation.
+
+**Note:** The documentation is not included 3rd party sources, Qt tools, Qt3Support API (deprecated) and Symbian S60 parts (already not useful).
