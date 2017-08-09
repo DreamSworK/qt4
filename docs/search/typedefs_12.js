@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['rangeiter',['RangeIter',['../classQXmlUtils.html#a93172edbe26612cc4fcfcfdae4f4c310',1,'QXmlUtils::RangeIter()'],['../qxmlutils_8cpp.html#a72d07f766a46f1b9c5d7be121dc0555f',1,'RangeIter():&#160;qxmlutils.cpp']]],
+  ['rawheader',['RawHeader',['../classQNetworkCacheMetaData.html#ad377b337164d35af6cd150e8c40654d0',1,'QNetworkCacheMetaData']]],
+  ['rawheaderlist',['RawHeaderList',['../classQNetworkCacheMetaData.html#a6ab53e1aa94e949ee8dd7e895af33aad',1,'QNetworkCacheMetaData']]],
+  ['rawheaderpair',['RawHeaderPair',['../classQNetworkReply.html#a901351492d9fc19a9f15b3cc16b2a12b',1,'QNetworkReply::RawHeaderPair()'],['../classQNetworkHeadersPrivate.html#af937e5890c62f2abc0f6083cb5eae8c2',1,'QNetworkHeadersPrivate::RawHeaderPair()']]],
+  ['rawheaderslist',['RawHeadersList',['../classQNetworkHeadersPrivate.html#addb00976bbfc5d712b2095ca690214ac',1,'QNetworkHeadersPrivate']]],
+  ['readfunc',['ReadFunc',['../classQSettings.html#ac07bb100d06cd6b82bc2b94b4f6cb394',1,'QSettings']]],
+  ['reconvertstring',['RECONVERTSTRING',['../qwininputcontext__p_8h.html#a4cb71338075e0a4d0071de042db45e07',1,'qwininputcontext_p.h']]],
+  ['rectfillfunc',['RectFillFunc',['../qdrawhelper__p_8h.html#a586608cf507da788a6f126149bfff2ae',1,'qdrawhelper_p.h']]],
+  ['reference',['reference',['../classQFuture_1_1const__iterator.html#ae5af6f9d20e3df3a3e8eac943d19bfab',1,'QFuture::const_iterator::reference()'],['../classQByteArray.html#a78da3e477360ffb8f38289fa6705a2de',1,'QByteArray::reference()'],['../classQContiguousCache.html#a3400aeb19aa18d52a55317d32686abaf',1,'QContiguousCache::reference()'],['../classQHash_1_1iterator.html#a5eaf87b44633ec4255091c6265ed10f9',1,'QHash::iterator::reference()'],['../classQHash_1_1const__iterator.html#a395151159e47464f3585a97a589fe99b',1,'QHash::const_iterator::reference()'],['../classQLinkedList_1_1iterator.html#aa73612e18840ff984ed0f9786263aa44',1,'QLinkedList::iterator::reference()'],['../classQLinkedList_1_1const__iterator.html#aaa770d1f3012248fbd1daecf1ea6de4a',1,'QLinkedList::const_iterator::reference()'],['../classQLinkedList.html#aebee2eec75edc3c307be32c16199d435',1,'QLinkedList::reference()'],['../classQList_1_1iterator.html#aadf226cf04225b39acd26973c72681bc',1,'QList::iterator::reference()'],['../classQList_1_1const__iterator.html#a52b9df9ae3c6d68e3b34cc0430e782e6',1,'QList::const_iterator::reference()'],['../classQList.html#adc9961317867d5844c90efac09c09bfb',1,'QList::reference()'],['../classQMap_1_1iterator.html#a51f731d0504f52859c209e708567f0ca',1,'QMap::iterator::reference()'],['../classQMap_1_1const__iterator.html#adefe695a7ddf7c62989d632d1f7e7ccb',1,'QMap::const_iterator::reference()'],['../classQSet_1_1iterator.html#a8a4ac66a8c5a83a8966683bab3c0d42f',1,'QSet::iterator::reference()'],['../classQSet_1_1const__iterator.html#aafc08b7db60f87ecdbe1be1263cefea0',1,'QSet::const_iterator::reference()'],['../classQSet.html#a91abdcdf0ce588c69d4148a690963f48',1,'QSet::reference()'],['../classQString.html#a160a75bc717df5a8f05332be681322e6',1,'QString::reference()'],['../classQVarLengthArray.html#aefaed159fc74e0c7f31f4e5a5516ed16',1,'QVarLengthArray::reference()'],['../classQVector.html#a86d1c26fb98028474e556d2e25b60633',1,'QVector::reference()']]],
+  ['refguid',['REFGUID',['../quuid_8h.html#a2cef60a2a3230d65838aada8eb97cfc6',1,'quuid.h']]],
+  ['region',['Region',['../classQAudioRingBuffer.html#a7b0e6ae96706c8da59030b72b51929ca',1,'QAudioRingBuffer::Region()'],['../qwindowdefs_8h.html#aa8dad5213fe11bf9e4f114149db0b329',1,'Region():&#160;qwindowdefs.h']]],
+  ['registrykeylist',['RegistryKeyList',['../qsettings__win_8cpp.html#addd8dea78bffe4243af4f6c30c57008a',1,'qsettings_win.cpp']]],
+  ['res_5finit_5fproto',['res_init_proto',['../qhostinfo__unix_8cpp.html#aa1fec51e26b4b427e211c7ff29002c5d',1,'qhostinfo_unix.cpp']]],
+  ['res_5fnclose_5fproto',['res_nclose_proto',['../qhostinfo__unix_8cpp.html#a5858b13da9e8b2c94d769d71984ccd65',1,'qhostinfo_unix.cpp']]],
+  ['res_5fninit_5fproto',['res_ninit_proto',['../qhostinfo__unix_8cpp.html#ae9c568c83f6d3b1090ba22a7063528cd',1,'qhostinfo_unix.cpp']]],
+  ['res_5fstate_5fptr',['res_state_ptr',['../qhostinfo__unix_8cpp.html#a360c7ff3c690b065cade1a129b402b2b',1,'qhostinfo_unix.cpp']]],
+  ['resourcelist',['ResourceList',['../qresource_8cpp.html#af099bc155625f5b1a8e1124f103026b0',1,'qresource.cpp']]],
+  ['restorableid',['RestorableId',['../classQStateMachinePrivate.html#a28b4612fdf2e8e53d4e2db0a6d85231c',1,'QStateMachinePrivate']]],
+  ['restrictedbool',['RestrictedBool',['../classQScopedPointer.html#a969541395cd17e3e9b45d16f6fe9ad60',1,'QScopedPointer']]],
+  ['rgb888torgb32converter',['Rgb888ToRgb32Converter',['../qjpeghandler_8cpp.html#a605e90101931ca970ee852adb5403b2c',1,'qjpeghandler.cpp']]],
+  ['rgnhandle',['RgnHandle',['../qmacdefines__mac_8h.html#ac356933691c5a2aeadf46c14fc5677a6',1,'qmacdefines_mac.h']]],
+  ['rootobjecthandler',['RootObjectHandler',['../classQAccessible.html#ac82fafacbfd8e4b5694ec260aed86bb3',1,'QAccessible']]]
+];
