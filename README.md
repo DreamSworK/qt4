@@ -4,7 +4,7 @@ There is a *[Doxygen](http://www.stack.nl/~dimitri/doxygen/) generated documenta
 
 It is an alternative to the documentation generated with [QDoc](http://doc.qt.io/qt-5/qdoc-index.html).
 
-Yes, it is *a little bit bugged*, because **Doxygen** is not fully supported the **Qt documentation style** and all **Qt tags**.
+Yes, it is *a little bit bugged*, because **Doxygen** is not fully supported the **Qt commenting style** and all **Qt tags**.
 
 However, it could be useful if you want to see inside the **Qt 4.8.6** sources.
 
